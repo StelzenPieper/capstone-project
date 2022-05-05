@@ -7,20 +7,18 @@ assignees: ''
 
 ---
 
----
 name: User Story template
 about: Create a new User Story
 title: ''
 labels: ''
 assignees: ''
 
----
 
 # Value Proposition
 
 **As a** ...(user, Author, logged in User...)
-**I need** ...(describe the goal)
-**to be able to** ...(describe the reason)
+**I have** ...(describe the goal)
+**in order to** ...(describe the reason)
 
 # Description
 
